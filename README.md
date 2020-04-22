@@ -11,6 +11,9 @@ including: random_flip_left_right; random_flip_up_down; random_brightness; rando
 
 cutmix; mixup; gridmask; pre_trained; dense_activation; lr_scheduler; tta; focal_loss; label_smoothing;
 
+# v1.1
+精简gridmask、add cross-validation
+
 
 
 
