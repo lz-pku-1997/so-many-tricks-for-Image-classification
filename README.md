@@ -21,3 +21,5 @@ cutmix; mixup; gridmask; pre_trained; dense_activation; lr_scheduler; tta; focal
 狗品种分类：  https://www.kaggle.com/c/dog-breed-identification/overview
 
 植物病理学分类： https://www.kaggle.com/c/plant-pathology-2020-fgvc7/overview
+
+TPU花分类：https://www.kaggle.com/c/flower-classification-with-tpus/overview
