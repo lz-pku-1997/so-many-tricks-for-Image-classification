@@ -15,7 +15,7 @@ cutmix; mixup; gridmask; pre_trained; dense_activation; lr_scheduler; tta; focal
 add cross_validation、增加映射到等差数列的融合规则（该融合方式使植物病理学auc由0.978提升到了0.982,而正常求和平均不能提升）
 
 # v1.2
-add auc-monitor、add history curve
+add auc-monitor(Deleted)、add history curve、add rotation
 
 
 # 程序默认数据集地址：
