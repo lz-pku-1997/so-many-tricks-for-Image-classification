@@ -15,7 +15,7 @@ cutmix; mixup; gridmask; pre_trained; dense_activation; lr_scheduler; tta; focal
 add cross_validation、增加映射到等差数列的融合规则
 
 # v1.2
-add auc-monitor(Deleted)、add history curve、add rotation
+add auc-monitor、add history curve、add rotation、混淆矩阵等大量内容，待更新文档
 
 
 # 程序默认数据集地址：
